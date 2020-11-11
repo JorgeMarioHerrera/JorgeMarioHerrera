@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi...
+- ⚡ Part time coder, full time curious. 
+- 🔭 I’m currently working on Software development using Java, Spring Boot, Angular. 
+- 🌱 I’m always learning...
+- 📫 How to reach me: The best way is my e-mail[e-mail](mailto:jorgemario2pac@upt.edu.co)
 
 <!--
 **JorgeMarioHerrera/JorgeMarioHerrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
